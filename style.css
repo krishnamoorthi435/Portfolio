@@ -386,6 +386,9 @@ nav .fa-solid{
     .cpoyright{
         font-size: 14px;
     }
+    #hd1{
+    font-size: 10px;
+}
 
 }
 
@@ -402,7 +405,7 @@ nav .fa-solid{
 }
 
 #hd1{
-    font-size: 15px;
+    font-size: 19px;
 }
 #skills,#experience,#education{
     font-size: 15px;
